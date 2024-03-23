@@ -1,4 +1,4 @@
-namespace BookShoppingDotnetMastery.Models
+namespace BookShopping.Models
 {
     public class ErrorViewModel
     {

@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace BookShoppingDotnetMastery.Migrations
+namespace BookShopping.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class Initload : Migration

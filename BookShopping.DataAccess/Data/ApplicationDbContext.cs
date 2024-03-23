@@ -1,7 +1,7 @@
-﻿using BookShoppingDotnetMastery.Models;
+﻿using BookShopping.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace BookShoppingDotnetMastery.Data
+namespace BookShopping.DataAccess.Data
 {
     public class ApplicationDbContext :DbContext
     {
